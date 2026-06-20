@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my cybersecurity skills, experience, and projects.
 
-**Live site:** [https://esraaalsaedi.github.io/portfolio](https://github.com/EsraaAlsaedi/Portfolio)
+**Live site:** [https://esraaalsaedi.github.io/Portfolio/](https://esraaalsaedi.github.io/Portfolio/)
 
 ## About
 
