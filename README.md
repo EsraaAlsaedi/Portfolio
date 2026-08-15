@@ -6,7 +6,7 @@ Personal portfolio website showcasing my cybersecurity skills, experience, and p
 
 ## About
 
-I'm a Computer Science graduate from Taibah University (First Honors, 4.8 GPA), specializing in Security and Networks. Trained with nationally recognized entities including the NCA, SITE, KAUST, and Tuwaiq Academy, I have hands-on experience from a two-month cybersecurity internship covering SOC shadowing, network security, and Active Directory management, plus training in penetration testing and secure coding. I'm interested in cybersecurity broadly, including network defense, SOC operations, and penetration testing.
+I'm a Computer Science graduate from Taibah University, specializing in Security and Networks. Trained with nationally recognized entities including the NCA, SITE, KAUST, and Tuwaiq Academy, I have hands-on experience from a two-month cybersecurity internship covering SOC shadowing, network security, and Active Directory management, plus training in penetration testing and secure coding. I'm interested in cybersecurity broadly, including network defense, SOC operations, and penetration testing.
 
 ## What's inside
 
