@@ -1,35 +1,37 @@
-# Esraa Alsaedi, Cybersecurity Portfolio
+# Esraa Alsaedi: Cybersecurity Portfolio
 
-Personal portfolio website showcasing my cybersecurity skills, experience, and projects.
+Personal portfolio for a Computer Science graduate (First Honors, GPA 4.8) with CompTIA Security+, building toward a SOC analyst role.
 
-**Live site:** [https://esraaalsaedi.github.io/Portfolio/](https://esraaalsaedi.github.io/Portfolio/)
+**Live site:** <https://esraaalsaedi.github.io/Portfolio/>
 
 ## About
 
-I'm a Computer Science graduate from Taibah University, specializing in Security and Networks. Trained with nationally recognized entities including the NCA, SITE, KAUST, and Tuwaiq Academy, I have hands-on experience from a two-month cybersecurity internship covering SOC shadowing, network security, and Active Directory management, plus training in penetration testing and secure coding. I'm interested in cybersecurity broadly, including network defense, SOC operations, and penetration testing.
+I graduated from Taibah University in June 2026 with a Bachelor of Computer Science (security and networks). My internship at Saudi Paramount Computer Systems covered network security (routers, firewalls, VPNs), Active Directory, and observing a SOC team's alert-triage workflow. I have also completed penetration testing training, and I am now focusing on blue team skills: SIEM monitoring, log analysis, and detection mapped to MITRE ATT&CK.
 
-## What's inside
+## What's on the site
 
-- About & background
+- About and background
+- Projects: SIEM case studies (in progress), a network traffic and vulnerability lab, and six attack labs
 - Internship experience
-- Skills (network security, SIEM analysis, penetration testing tools, Kali Linux, Python, etc.)
-- Projects (completed and in progress)
-- Education, training & certifications
-- Contact info
+- Skills, split into working knowledge and what I am learning now
+- Training, certifications, and education
+- Volunteering
+- Contact details
 
-## Training & certifications
+## Training and certifications
 
-- CompTIA Security+ (in progress, scheduled August 2026)
-- Penetration Testing Fundamentals — Tuwaiq Academy (60 hrs)
-- Cybersecurity Bootcamp — NCA & SITE (152 hrs)
-- Introductory Cybersecurity Program — KAUST & NCA (40 hrs)
-- IBM Cybersecurity Essentials
-- Secure Coding Coursera 
+- CompTIA Security+ (2026)
+- IBM Cybersecurity Essentials (course certificate)
+- Secure Coding, Coursera (course certificate)
+- Penetration Testing Fundamentals, Tuwaiq Academy (60 hrs)
+- Cybersecurity Bootcamp, NCA and SITE (152 hrs)
+- Introductory Cybersecurity Program, KAUST and NCA (40 hrs)
 
 ## Built with
 
-HTML, CSS, and JavaScript.
+HTML and CSS, in a single `index.html` file. No frameworks or build step.
 
 ## Contact
 
-📧 esra13sa@gmail.com
+Email: <esra13sa@gmail.com>
+GitHub: <https://github.com/EsraaAlsaedi>
